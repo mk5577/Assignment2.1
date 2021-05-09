@@ -65,7 +65,7 @@
 			</tbody>
 		</table>
 	</div>
-	<div align ='center'><a  href="index.html">HOME</a></div>
+	<div align ='center'><a  href="index.php">HOME</a></div>
 
 </body>
 </html>
